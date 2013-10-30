@@ -1,0 +1,22 @@
+{
+    "name": "gigablah/silex-qrcode",
+    "description": "Silex QR Code Provider",
+    "keywords": ["silex", "qrcode", "qr"],
+    "homepage": "https://github.com/gigablah/silex-qrcode",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Heng",
+            "email": "bigblah@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qrcode": "~1.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gigablah\\Silex\\QrCode": ["src/"]
+        }
+    }
+}
