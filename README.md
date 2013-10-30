@@ -12,7 +12,7 @@ Use [Composer][3] to install the gigablah/silex-qrcode library by adding it to y
 {
     "require": {
         "silex/silex": "~1.0",
-        "gigablah/silex-qrcode": "~0.1"
+        "gigablah/silex-qrcode": "~0.0.1"
     }
 }
 ```
