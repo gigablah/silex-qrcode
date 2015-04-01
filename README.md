@@ -53,6 +53,6 @@ License
 
 Released under the MIT license. See the LICENSE file for details.
 
-[1]: https://github.com/Lusitanian/PHPoAuthLib
+[1]: https://github.com/endroid/QrCode
 [2]: http://silex.sensiolabs.org
 [3]: http://getcomposer.org
